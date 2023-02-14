@@ -42,7 +42,7 @@ All the development and testing was runned over an operating system Ubuntu 20.04
 ## 0x03 Installation
 
 ```bash
-git clone https://github.com/insidemordecai/AirBnB_clone.git
+git clone https://github.com/pprimez/AirBnB_clone.git
 ```
 
 change to the `AirBnb` directory and run the command:
@@ -271,7 +271,7 @@ fd63fd21-11b7-44fc-aace-26245af61cc5
     </ul>
 </details>
 <details>
-    <summary>Aniekeme Umoren</summary>
+    <summary>Faith Toma</summary>
     <ul>
     <li><a href="https://www.github.com/Kaluu-cpu">Github</a></li>
     <li><a href="https://www.twitter.com/">Twitter</a></li>    
