@@ -271,7 +271,7 @@ fd63fd21-11b7-44fc-aace-26245af61cc5
     </ul>
 </details>
 <details>
-    <summary>Aniekeme Umoren</summary>
+    <summary>Faith Toma</summary>
     <ul>
     <li><a href="https://www.github.com/Kaluu-cpu">Github</a></li>
     <li><a href="https://www.twitter.com/">Twitter</a></li>    
